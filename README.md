@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm **Haithem**, a Full Stack Developer who enjoys building complete web applications — from the database and business logic to the pages users actually see.
+I'm **Haitham**, a Full Stack Developer who enjoys building complete web applications — from the database and business logic to the pages users actually see.
 
 - 🔭 I build **ASP.NET Core MVC** applications with authentication, payments and clean architecture
 - 🧱 I like structuring code with the **Repository pattern**, **ViewModels** and separate **Areas** (Admin / Customer)
