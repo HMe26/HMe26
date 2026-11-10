@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0A66C2&height=200&section=header&text=Haithem%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0A66C2&height=200&section=header&text=Haitham%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22" alt="header" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Building+web+apps+with+clean+code" alt="Typing SVG" /></a>
 
