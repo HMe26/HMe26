@@ -51,8 +51,8 @@ I'm **Haithem**, a Full Stack Developer who enjoys building complete web applica
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HMe26&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMe26&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HMe26&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HMe26&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=HMe26&theme=radical&hide_border=true" alt="GitHub streak" />
 
